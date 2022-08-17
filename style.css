@@ -1,6 +1,7 @@
 body {
   align-items: center;
-  background-color: yellowgreen;
+  background: url("./assets/fernLeaves.jpg");
+  background-size: cover;
   font-family: cursive;
   display: flex;
   height: 100vh;
@@ -13,7 +14,7 @@ body {
   background-color: white;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  margin: 10px;
+  margin: 50px;
   padding: 30px;
 }
 
@@ -22,7 +23,7 @@ body {
   box-sizing: border-box;
   color: green;
   display: block;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   padding: 10px;
   width: 100%;
